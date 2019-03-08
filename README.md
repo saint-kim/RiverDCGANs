@@ -1,3 +1,3 @@
 # RiverDCGANs
 
-private repository prior to the submission
+Deep Convolutional Generative Adversarial Networks (DCGANs) codes for stochastic drainage network generation
