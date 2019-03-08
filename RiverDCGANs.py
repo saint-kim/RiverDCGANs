@@ -1,6 +1,6 @@
 """
 RiverGANs 
-more description will be provided soon
+more description will be provided soon by
 Sung Eun Kim, Jonghyun Harry Lee
 """
 
